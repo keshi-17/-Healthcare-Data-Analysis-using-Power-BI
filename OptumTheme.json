@@ -1,0 +1,37 @@
+{
+  "name": "Optum Orange Teal Theme",
+  "dataColors": [
+    "#FF6F00",   
+    "#006778",   
+    "#FDB913",
+    "#8BC34A",   
+    "#A7A8AA",   
+    "#4C4C4C",   
+    "#F2F2F2"    
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#FF6F00",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": { "solid": { "color": "#003C3C" } },
+            "fontSize": 13
+          }
+        ],
+        "labelColor": [
+          {
+            "color": { "solid": { "color": "#4C4C4C" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    }
+  }
+}
